@@ -6,7 +6,10 @@
   <samp><strong>Senior TypeScript/React Engineer</strong></samp>
 
   <samp>
-    ☕ Wanna chat or talk about new projects? <a href="https://twitter.com/mimshins" title="Twitter">Twitter</a> | <a href="https://www.linkedin.com/in/mostafa-shamsitabar-b4696999" title="LinkedIn">LinkedIn</a>
+    <br />
+    <small>Wanna chat or talk about new projects?</small>
+    <br />
+    <a href="https://twitter.com/mimshins" title="Twitter">Twitter</a> | <a href="https://www.linkedin.com/in/mostafa-shamsitabar-b4696999" title="LinkedIn">LinkedIn</a>
   </samp>
 </div>
 
@@ -21,6 +24,7 @@
 <!-- <hr /> -->
 
 <div align="center">
-  <p><samp>View Count:</samp></p>
+  <samp>View Count</samp>
+  <br />
   <img src="https://profile-counter.glitch.me/{mimshins}/count.svg" alt="visitor count" />
 </div>
