@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mimshins/mimshins/main/bmo.gif" alt="gif" />
+  <img src="https://raw.githubusercontent.com/mimshins/mimshins/main/d81.png" />
 
   <h1><samp>Mostafa Shamsitabar</samp></h1>
 
