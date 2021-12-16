@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mimshins/mimshins/main/d81.png" />
+  <img src="https://raw.githubusercontent.com/mimshins/mimshins/main/wp9637497.webp" />
 
   <h1><samp>Mostafa Shamsitabar</samp></h1>
 
