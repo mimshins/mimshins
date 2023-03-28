@@ -3,7 +3,7 @@
 
   <h1><samp>Mostafa Shamsitabar</samp></h1>
 
-  <samp><strong>Senior TypeScript/React Engineer</strong></samp>
+  <samp><strong>Senior Front-End Engineer</strong></samp>
 
   <samp>
     <br />
