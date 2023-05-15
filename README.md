@@ -9,7 +9,7 @@
     <br />
     <small>Wanna chat or talk about new projects?</small>
     <br />
-    <a href="https://twitter.com/mimshins" title="Twitter">Twitter</a> | <a href="https://www.linkedin.com/in/mostafa-shamsitabar-b4696999" title="LinkedIn">LinkedIn</a>
+    <a href="https://twitter.com/mimshins" title="Twitter">Twitter</a> | <a href="https://www.linkedin.com/in/mostafa-shamsitabar-b4696999" title="LinkedIn">LinkedIn</a> | <a href="mailto:mostafa.sh.coderino@gmail.com" title="Email">Email</a>
   </samp>
 </div>
 
@@ -20,11 +20,3 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=mimshins&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </div> -->
-
-<!-- <hr /> -->
-
-<div align="center">
-  <samp>View Count</samp>
-  <br />
-  <img src="https://profile-counter.glitch.me/{mimshins}/count.svg" alt="visitor count" />
-</div>
