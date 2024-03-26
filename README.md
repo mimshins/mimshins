@@ -3,7 +3,7 @@
 
   <h1><samp>Mostafa Shamsitabar</samp></h1>
 
-  <samp><strong>Senior Front-End Engineer</strong></samp>
+  <samp><strong>Front-End Engineer and Toolmaker</strong></samp>
 
   <samp>
     <br />
