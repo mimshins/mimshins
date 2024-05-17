@@ -3,7 +3,7 @@
 
   <h1><samp>Mostafa Shamsitabar</samp></h1>
 
-  <samp><strong>Front-End Engineer | Toolmaker & Infrastructure Developer</strong></samp>
+  <samp><strong>Front-End Software Engineer | Toolmaker & Infrastructure Developer</strong></samp>
 
   <samp>
     <br />
