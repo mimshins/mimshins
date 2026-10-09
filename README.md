@@ -1,7 +1,7 @@
 <div align="center">
   <h1><samp>Mostafa Shamsitabar</samp></h1>
 
-  <samp><strong>Software Engineer | Toolmaker & A11y Advocate</strong></samp>
+  <samp><strong>Software Engineer with SRE/Platform Engineer Mindset</strong></samp>
 
   <samp>
     <br />
